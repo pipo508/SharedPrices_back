@@ -1,0 +1,22 @@
+# Archivos generados por el IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos generados por el compilador Java
+bin/
+target/
+
+# Archivos de configuración de Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Archivos de configuración de Gradle
+.gradle/
+build/
+
+# Archivos de respaldo
+*~
+*.swp
